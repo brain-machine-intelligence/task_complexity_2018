@@ -22,3 +22,5 @@ Generates regressor that is in the supplementary document of our manuscript.
 ## 3. Task files : ./task_complexity 
 
 To perform an experiment, you must install psychtoolbox first. After the installation, run SIMUL_main.m line-by-line. 
+
+## etc. Please refer to appendix file for the additional analysis!
