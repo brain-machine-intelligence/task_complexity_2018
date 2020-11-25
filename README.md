@@ -24,3 +24,9 @@ Generates regressor that is in the supplementary document of our manuscript.
 To perform an experiment, you must install psychtoolbox first. After the installation, run SIMUL_main.m line-by-line. 
 
 ## etc. Please refer to appendix file for the additional analysis!
+
+
+## Acknowledgement
+
+This work was funded by grants R01DA033077 and R01DA040011 to J.P.O.D. from the National Institute on Drug Abuse. This work was also supported by Institute of Information & Communications Technology Planning & Evaluation(IITP) grant funded by the Korea government (MSIT) (No. 2019-0-01371, Development of brain-inspired AI with human-like intelligence) (No. 2017-0-00451, Development of BCI based Brain and Cognitive Computing Technology for Recognizing User’s Intentions using Deep Learning), the ICT R&D program of MSIP/IITP (No. 2016-0-00563, Research on Adaptive Machine Learning Technology Development for Intelligent Autonomous Digital Companion), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. NRF-2019M3E5D2A01066267), and Samsung Research Funding Center of Samsung Electronics under Project Number SRFC-TC1603-06.
+
