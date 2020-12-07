@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/145090153.svg)](https://zenodo.org/badge/latestdoi/145090153)
+
 Simulation code for the computational model of arbitration and fMRI results
 
 ## 1. Simulation Code : main.m
